@@ -1,4 +1,7 @@
+
 import tensorflow as tf
+
+print 'as you wish'
 W = tf.Variable(tf.zeros([784, 10]))
 print W
 
